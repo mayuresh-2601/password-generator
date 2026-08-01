@@ -180,7 +180,7 @@
               <p className="text-center text-[10px] font-bold uppercase tracking-widest text-hero-dark/30">
                 Built by{" "}
                 <a
-                  href="https://github.com/abhishek-2006"
+                  href="https://github.com/mayuresh-2601"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="transition-colors text-hero-blue"
